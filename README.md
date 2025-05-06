@@ -20,7 +20,7 @@ A Python-based data analysis tool that tracks global COVID-19 trends, including 
 
 9. License
 
-#📝 Project Description
+📝 Project Description
 This project analyzes global COVID-19 data to track:
 
 -Cases & Deaths (daily trends, country-wise comparisons)
@@ -82,13 +82,16 @@ WHO COVID-19 Dashboard
 📊 Sample Outputs
 1. Time-Series Trends
 Cases Over Time
+![image](https://github.com/user-attachments/assets/48e6c132-76f4-48e1-a6a0-8c1fc0c85e8f)
 
 2. Country Comparison
 Vaccination Progress
+![image](https://github.com/user-attachments/assets/78e2011c-b4b9-4b20-a785-1afc2f45fd98)
 
 3. Choropleth Map (Global Cases)
 Global Cases
 
+![newplot (2)](https://github.com/user-attachments/assets/dcceb7c6-1851-4051-80bc-cdadf6bc1560)
 
 
 🔍 Key Insights

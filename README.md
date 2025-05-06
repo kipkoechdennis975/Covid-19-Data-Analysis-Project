@@ -33,7 +33,9 @@ This project analyzes global COVID-19 data to track:
 
 Built with Python, Pandas, Matplotlib, and Seaborn, it provides interactive visualizations and data-driven insights.
 
-#✨ Features
+
+
+✨ Features
 ✅ Data Cleaning – Handles missing values, filters key metrics
 ✅ Time-Series Analysis – Tracks cases, deaths, vaccinations
 ✅ Country Comparison – Compares metrics across regions
@@ -41,7 +43,9 @@ Built with Python, Pandas, Matplotlib, and Seaborn, it provides interactive visu
 ✅ Insights Generation – Summarizes key trends
 
 
-#⚙️ Installation
+
+
+⚙️ Installation
 Prerequisites
 Python 3.8+
 
@@ -50,3 +54,70 @@ Install Dependencies
 bash
 pip install pandas numpy matplotlib seaborn plotly
 
+
+
+Download Dataset: Download the OWID COVID-19 dataset from:
+🔗 Our World in Data
+Save it as owid-covid-data.csv in your project folder.
+🚀 Usage
+Running the Analysis
+1. Clone the repository:
+git clone https://github.com/yourusername/covid-19-tracker.git
+2. Run the Jupyter Notebook or Python script: python covid_tracker.py
+3. Modify the countries list to analyze specific regions:countries = ["United States", "India", "Brazil", "Germany", "Kenya"]
+
+
+
+📂 Data Sources
+Primary Dataset: Our World in Data (OWID)
+
+Alternative Sources:
+
+Johns Hopkins CSSE
+
+WHO COVID-19 Dashboard
+
+
+
+📊 Sample Outputs
+1. Time-Series Trends
+Cases Over Time
+
+2. Country Comparison
+Vaccination Progress
+
+3. Choropleth Map (Global Cases)
+Global Cases
+
+
+
+🔍 Key Insights
+
+
+
+
+
+
+🔮 Future Enhancements
+Interactive Dashboard (using Dash/Streamlit)
+
+Forecasting Model (ARIMA/LSTM predictions)
+
+Automated PDF Reports
+
+Regional Breakdowns (state/province-level data)
+
+
+
+
+
+
+📜 License
+This project is licensed under the MIT License.
+See LICENSE for details.
+
+
+📬 Contact
+For questions/suggestions, reach out:
+📧 Email: kipkoechdennis975@gmail.com
+git clone https://github.com/yourusername/covid-19-tracker.git

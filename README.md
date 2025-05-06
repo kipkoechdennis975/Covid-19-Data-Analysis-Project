@@ -62,7 +62,7 @@ Save it as owid-covid-data.csv in your project folder.
 🚀 Usage
 Running the Analysis
 1. Clone the repository:
-git clone https://github.com/yourusername/covid-19-tracker.git
+git clone https://github.com/kipkoechdennis975/Covid-19-Data-Analysis-Project.git
 2. Run the Jupyter Notebook or Python script: python covid_tracker.py
 3. Modify the countries list to analyze specific regions:countries = ["United States", "India", "Brazil", "Germany", "Kenya"]
 
@@ -95,7 +95,9 @@ Global Cases
 
 
 🔍 Key Insights
-
+-USA had more cases compared to India
+-The total cases stabilized for most countries towards the end of 2022
+-Vaccination rates for India and USA increased from 2021 to 2022 then stabilized
 
 
 
@@ -123,4 +125,4 @@ See LICENSE for details.
 📬 Contact
 For questions/suggestions, reach out:
 📧 Email: kipkoechdennis975@gmail.com
-git clone https://github.com/yourusername/covid-19-tracker.git
+git clone https://github.com/kipkoechdennis975/Covid-19-Data-Analysis-Project.git
